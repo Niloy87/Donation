@@ -1,0 +1,20 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.help-section {
+    text-align: center;
+    background-image: url(images/donation13.jpg);
+    color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 60px;
+    padding-top: 50px;
+}
+}
+}
