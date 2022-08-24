@@ -9,12 +9,40 @@ body {
     background-repeat: no-repeat;
     background-size: 100%;
     margin: 0;
+    height: 500px;
 }
 
 h1 {
-    font-weight: 600;
-    font-size: 60px;
+    font-weight: 400;
+    font-size: 50px;
     padding-top: 50px;
 }
+
+.first-anchor {
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(206, 41, 12));
+    border-radius: 3px;
+    padding: 2px 10px;
 }
+
+.donate-today {
+    text-align: center;
+}
+
+.highlighted {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.highlighted div {
+    margin: 15px;
+    padding: 30px;
+    background-color: aliceblue;
+}
+
+#red {
+    border: 3px solid red;
+    background-color: rgb(244, 222, 204);
+    border-radius: 5px;
 }
